@@ -2,6 +2,6 @@
 
 class Hello{
 	public function hi(){
-		echo 'hi';
+		echo 'hello';
 	}
 }
