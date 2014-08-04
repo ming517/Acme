@@ -1,6 +1,7 @@
 {
     "name": "ming517/hello",
     "type": "library",
+    "version": "1.0.0",
     "description": "Just testing hello",
     "keywords": ["hello","testing"],
     "homepage": "https://github.com/ming517/Acme",
@@ -21,4 +22,5 @@
             "Acme\\": "Acme"
         }
     }
+
 }
