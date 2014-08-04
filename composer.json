@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Acme\\": "Acme"
+            "Acme\\": ""
         }
     },
     "minimum-stability" : "dev"
